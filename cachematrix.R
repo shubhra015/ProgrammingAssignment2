@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-#Description of makeCacheMatrix
+##Description of makeCacheMatrix
 # set the value of the matrix
 # get the value of the matrix
 # set the value of inverse of the matrix
